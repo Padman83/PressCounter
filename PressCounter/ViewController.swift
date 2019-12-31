@@ -2,8 +2,8 @@
 //  ViewController.swift
 //  PressCounter
 //
-//  Created by Padman on 18/12/2019.
-//  Copyright © 2019 Padman. All rights reserved.
+//  Created by Padman Selvamanickam on 18/12/2019.
+//  Copyright © 2019 Padman Selvamanickam. All rights reserved.
 //
 
 import UIKit
