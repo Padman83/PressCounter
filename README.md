@@ -5,7 +5,7 @@
 
 ### Code Editor
 
-* [XCode] (https://developer.apple.com/xcode/ide/)
+* [XCode] (https://developer.apple.com/xcode/ide)
 
 
 ### Design Tool
@@ -15,7 +15,7 @@
 
 ### Built With
 
-* (https://developer.apple.com/xcode/)
+* (https://developer.apple.com/xcode)
 
 
 ### Project Link
