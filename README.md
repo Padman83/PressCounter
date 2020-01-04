@@ -9,12 +9,12 @@
 
 ### Code Editor
 
-* [XCode] (https://developer.apple.com/xcode/ide)
+* (https://developer.apple.com/xcode/ide)
 
 
 ### Design Tool
 
-* [Adobe XD] (https://www.adobe.com)
+* (https://www.adobe.com)
 
 
 ### Built With
