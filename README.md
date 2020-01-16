@@ -4,7 +4,7 @@
 
 ### PressCounter App
 
-![PressCounter@3x](https://user-images.githubusercontent.com/45048950/71768053-c5752f00-2f4d-11ea-9d0f-7272bb9e8ec9.png)
+![PressCounter](https://user-images.githubusercontent.com/45048950/72546294-820fae80-38c5-11ea-824f-843a22670f10.gif)
 
 ### Tools + Language + Framework + Techniques :
 
