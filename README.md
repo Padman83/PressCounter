@@ -8,10 +8,6 @@
 
 * (https://developer.apple.com/xcode/ide)
 
-### Built With
-
-* (https://developer.apple.com/xcode)
-
 ### Project Link
 
 * (https://github.com/Padman83/PressCounter)
