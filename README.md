@@ -1,18 +1,8 @@
-# About The Project 
+![Apple Logo](https://user-images.githubusercontent.com/45048950/73131198-bca1e580-4041-11ea-8f8d-ebfd844f0e64.png) 
 
-<img src="https://swift.org/assets/images/swift.svg" alt="Swift logo" height="70" >
-
-### iOS PressCounter App
+# iOS PressCounter App
 
 ![PressCounter](https://user-images.githubusercontent.com/45048950/72546294-820fae80-38c5-11ea-824f-843a22670f10.gif)
-
-### Tools + Language + Framework + Techniques :
-
-### UIKit framework
-
-### StoryBoard
-
-### Auto-Layout
 
 ### Code Editor
 
@@ -21,7 +11,6 @@
 ### Built With
 
 * (https://developer.apple.com/xcode)
-
 
 ### Project Link
 
