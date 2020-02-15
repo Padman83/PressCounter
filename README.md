@@ -1,9 +1,9 @@
 ![Apple Logo](https://user-images.githubusercontent.com/45048950/73131198-bca1e580-4041-11ea-8f8d-ebfd844f0e64.png) 
 
-# iOS PressCounter App
+# iOS PressCounter
 PressCounter App is written in Swift language for iOS.
 
-![PressCounter](https://user-images.githubusercontent.com/45048950/72546294-820fae80-38c5-11ea-824f-843a22670f10.gif)
+![PressCounter](https://user-images.githubusercontent.com/45048950/74591290-af30b780-5051-11ea-93de-7d8b997667b5.gif)
 
 ### Code Editor
 
