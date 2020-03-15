@@ -1,18 +1,18 @@
 ![Apple Logo](https://user-images.githubusercontent.com/45048950/73131198-bca1e580-4041-11ea-8f8d-ebfd844f0e64.png) 
 
-### 📱 iOS PressCounter
+## 📱 iOS PressCounter
 
 PressCounter App is written in Swift language for iOS Apps.
 
 ![PressCounter](https://user-images.githubusercontent.com/45048950/74591290-af30b780-5051-11ea-93de-7d8b997667b5.gif)
 
-### 🧰 System Requirements
+## 🧰 System Requirements
 
 * Xcode Editor
 
 * iOS 13.3 or latest version
 
-### 🛠️ Installation
+## 🛠️ Installation
 
 ### Open in Xcode, go to source control -> clone -> enter repository URL.
 
